@@ -1,10 +1,10 @@
 This is information about my repository for Project 0 in a class at college.
 
-_Name:_ Timothy Tham
+__Name:__ Timothy Tham
 
-Link to the GitHub repository: [Project 0](https://github.com/alderaccounttt/2-Project0)
+__Link to the GitHub repository:__ [Project 0](https://github.com/alderaccounttt/2-Project0)
 
-Link to videos demonstrating usage of Git and GitHub: 
+__Link to videos demonstrating usage of Git and GitHub:__
 
 [Video 1](https://youtu.be/cLxyVFFAZCQ)
 
@@ -16,6 +16,6 @@ Link to videos demonstrating usage of Git and GitHub:
 
 [Video 5](https://youtu.be/Rl2JpwabPXw)
 
-Name and Version of recording software: Xbox Game Bar, No Specified Version
+__Name and Version of recording software:__ Xbox Game Bar, No Specified Version
 
-Name and Version of IDE used: Visual Studio Code, Version 1.94.4
+__Name and Version of IDE used:__ Visual Studio Code, Version 1.94.4
